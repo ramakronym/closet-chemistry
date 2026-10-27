@@ -1,6 +1,8 @@
 # Closet Chemistry
 
-Your day. Your style. Your personal stylist. A personal styling app that solves the “what do I wear?” problem by recommending looks from your own closet. Built on Anu's own closet as a baseline, but upload your own for a personalized experience.
+Your day. Your style. Your personal stylist. A personal styling app that solves the “what do I wear?” problem by recommending looks from your own closet. Built on Anu's own closet as a baseline, but upload your own for a personalized experience. 
+
+Try it here: https://ramakronym.github.io/closet-chemistry/
 
 ## Product
 Choose a demo garment from Anu's closet or upload your own, switch office/weekend/dinner, lock pieces, set an owned-only or one-purchase rule, and explore three outfit combinations. Explicit feedback adapts the ranking; explanations expose the rules behind each look.
